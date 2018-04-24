@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Cartography (1.1.0)
+  - SwiftyJSON (3.1.4)
+  - UIView+Shake (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cartography
+  - SwiftyJSON
+  - UIView+Shake
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Cartography: 0538ccb4044acbbda2266335fc58cb4228794d90
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  UIView+Shake: 3ccbf966d40a76ea2cdbdd48d8219d322d5df5f5
+
+PODFILE CHECKSUM: e2702ae9a2216047899b8f1f4e6a9acc50e7baf5
+
+COCOAPODS: 1.4.0
